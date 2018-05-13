@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Paper Recycling-Updates|Errors</string>
+    <string name="img">Img</string>
+    <string name="status">Status: </string>
+    <string name="time_rem">Time Left:</string>
+    <string name="hour_1_45">1:45</string>
+    <string name="hour_1_40">1:40</string>
+    <string name="hour_1_30">1:30</string>
+    <string name="hour_1_20">1:20</string>
+    <string name="hour_1_15">1:15</string>
+    <string name="hour_1_10">1:10</string>
+    <string name="hour_1">01:00</string>
+    <string name="min_55">00:55</string>
+    <string name="min_50">00:50</string>
+    <string name="min_45">00:45</string>
+    <string name="min_40">00:40</string>
+    <string name="min_30">00:30</string>
+    <string name="min_20">00:20</string>
+    <string name="min_15">00:15</string>
+    <string name="min_10">00:10</string>
+    <string name="min_05">00:05</string>
+</resources>

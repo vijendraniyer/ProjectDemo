@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "164035688481",
+    "firebase_url": "https://project-demo-6522c.firebaseio.com",
+    "project_id": "project-demo-6522c",
+    "storage_bucket": "project-demo-6522c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164035688481:android:a6bee1affe8c9792",
+        "android_client_info": {
+          "package_name": "com.vijendraniyer.projectdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164035688481-fnbdrn28b722grihqjcosop4lqcc71nf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vijendraniyer.projectdemo",
+            "certificate_hash": "cca2fa0c9bcabc52c9b4ce0a1b77398aad64455d"
+          }
+        },
+        {
+          "client_id": "164035688481-k4ad2skle9bj3i0ppe8q7kepvib4knlp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vijendraniyer.projectdemo",
+            "certificate_hash": "0a33105d66bfb751ef09bc8455f9c66fbb22573c"
+          }
+        },
+        {
+          "client_id": "164035688481-7lhnh5glttvi72cfdatidt43e6hkn2o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzDQb9XN85G7MSgfyvT0hYRzhLmX0tSEk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164035688481-7lhnh5glttvi72cfdatidt43e6hkn2o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164035688481:android:74cff25600b0a748",
+        "android_client_info": {
+          "package_name": "com.vijendraniyer.demoprojectkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164035688481-aeecrjpupqhh0fb1kpu1gjmihnihjia3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vijendraniyer.demoprojectkotlin",
+            "certificate_hash": "cca2fa0c9bcabc52c9b4ce0a1b77398aad64455d"
+          }
+        },
+        {
+          "client_id": "164035688481-7lhnh5glttvi72cfdatidt43e6hkn2o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzDQb9XN85G7MSgfyvT0hYRzhLmX0tSEk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164035688481-7lhnh5glttvi72cfdatidt43e6hkn2o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
